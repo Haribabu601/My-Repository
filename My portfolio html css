@@ -1,0 +1,213 @@
+<html>
+
+<head>
+
+<title">
+
+My portfolio
+
+</title>
+
+using css
+
+<style>
+
+ 
+
+body{
+
+background-color:lightblue;
+
+}
+
+ 
+
+#info {
+
+font-family: Arial, Helvetica, sans-serif;
+
+border-collapse: collapse;
+
+width: 100%;
+
+}
+
+ 
+
+#info tr:hover {background-color: #ddd;}
+
+ 
+
+#info th {
+
+padding-top: 12px;
+
+padding-bottom: 12px;
+
+text-align: left;
+
+background-color: #4CAF50;
+
+color: white;
+
+}
+
+ 
+
+#info tr{
+
+background-color:gray;
+
+}
+
+ 
+
+</style>
+
+</head>
+
+<body>
+
+<table border = "2" align = "center" width = "60%">
+
+<tr>
+
+<th>
+
+<h1>My portfolio</h1>
+
+</th>
+
+</tr>
+
+<tr>
+
+<th align = "left">
+
+<h2 style="color:purple">
+
+<i>
+
+S Hari babu
+
+</i>
+
+</h2>
+
+ 
+
+<li>Mobile no: 6*********</li>
+
+<li>Email address : xyz@gmail.com</li>
+
+<h2> Personal information : </h2>
+
+<ul>
+
+<li> Father's Name : nanaji </li>
+
+<li> Religion : Hindu </li>
+
+<li> Nationality : Indian </li>
+
+<li> Date of Birth : **/**/****</li>
+
+<li>university/college:<b>manav rachna international institute of research and studies</b></li>
+
+</ul>
+
+<h2 >my beleif:</h2>
+
+<i style="color:blue;"> i beleive failures are the stepping stone to success.</i>
+
+<h2> Qualification : </h2>
+
+<table id="info"; border = "1"><tr><th>Branch</th><th>
+
+Faculty
+
+</th>
+
+<th>Roll No.</th>
+
+<tr>
+
+<td>B-Tech(CSE(CSF-IBM)</td>
+
+<td>Fet</td>
+
+<td> 1/19/FET/BCS/115</td>
+
+</tr>
+
+</table>
+
+<h2>INTRESTS :</h2>
+
+<ul>
+
+<li>PLAYING CRICKET</li>
+
+<li>READING BOOKS</li>
+
+</ul>
+
+<h2>Personal Skills : </h2>
+
+<ul>
+
+<li> c programming </li>
+
+<li> self learning </li>
+
+<li> HTML5 </li>
+
+</ul>
+
+<h2> Experience : </h2>
+
+<ul>
+
+<li>1 Months Internship </li>
+
+</ul>
+
+<h2>Certifications :</h2>
+
+<ul>
+
+<li> Python for everybody(Coursera)</li>
+
+<li> Cloud computing</li>
+
+</ul>
+
+<h2> Languages : </h2
+
+<ul>
+
+<li> English </li>
+
+<li>TELUGU </li>
+
+</ul>
+
+<h2>favorite game:</h2>
+
+<i style=>CRICKET</i>
+
+ 
+
+</th></tr>
+
+</table>
+
+</body>
+
+</html>
+
+ 
+
+Sent from Mail for Windows 10
+
+ 
